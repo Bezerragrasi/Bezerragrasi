@@ -12,7 +12,7 @@
 ## I'm a Scientist in Training
 
 - 🔭 I’m currently cursing a full time Master degree in Astrophysic at [Brazilian Center for Research in Physics (CBPF)][CBPF-url], Brazil.
-- 🌱 I’m currently learning French
+- 🌱 I’m learning French
 - 👯 I’m looking to collaborate with other Researches
 - 🤔 I’m looking for help with Numerical Integration
 - 📖 I'm currently reading (again) *The Hobbit*
