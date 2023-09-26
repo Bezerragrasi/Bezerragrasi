@@ -5,18 +5,17 @@
 -->
 
 
-### Hi there, I am Bsc Grasiele Romanzini Bezerra 👋
+### Hi there, I am Bsc Grasiele Romanzini-Bezerra 👋
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 ## I'm a Scientist in Training
 
-- 🔭 I’m currently cursing a full time Master degree in Astrophysic at [Brazilian Center for Research in Physics (CBPF)][CBPF-url], Brazil.
+- 🔭 I’m currently working as a Research Assistant in the School of Earth and Environment at the University of Leeds. 
 - 🌱 I’m learning French
 - 👯 I’m looking to collaborate with other Researches
-- 🤔 I’m looking for help with Numerical Integration
 - 📖 I'm currently reading (again) *The Hobbit*
-- 💬 Ask me about Astrophysics/Astronomy
+- 💬 Ask me about Astrophysics/Astronomy and Climate Cience
 - ⚡ Fun fact: I love reading, cooking and traveling
 <!-- - 📫 How to reach me: ... -->
 
@@ -53,11 +52,11 @@
 
 ---
 
-![Bezerra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bezerragrasi&count_private=true&show_icons=true)
+![Romanzini-Bezerra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bezerragrasi&count_private=true&show_icons=true)
 
 ---
 
-![Bezerra's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bezerragrasi&layout=compact)
+![Romanzini-Bezerra's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bezerragrasi&layout=compact)
 
 <!-- personal links -->
 [personal-url]: #
