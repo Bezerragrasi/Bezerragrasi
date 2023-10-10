@@ -5,7 +5,7 @@
 -->
 
 
-### Hi there, I am Bsc Grasiele Romanzini-Bezerra 👋
+### Hi there, I am Grasiele Romanzini-Bezerra, MSci 👋
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
